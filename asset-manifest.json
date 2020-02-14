@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tarcisCI/static/css/main.d1b05096.chunk.css",
+    "main.js": "/tarcisCI/static/js/main.2d6b552e.chunk.js",
+    "main.js.map": "/tarcisCI/static/js/main.2d6b552e.chunk.js.map",
+    "runtime-main.js": "/tarcisCI/static/js/runtime-main.42417357.js",
+    "runtime-main.js.map": "/tarcisCI/static/js/runtime-main.42417357.js.map",
+    "static/js/2.8d77a238.chunk.js": "/tarcisCI/static/js/2.8d77a238.chunk.js",
+    "static/js/2.8d77a238.chunk.js.map": "/tarcisCI/static/js/2.8d77a238.chunk.js.map",
+    "index.html": "/tarcisCI/index.html",
+    "precache-manifest.f636300cf5c14a6802397c4e1789fd8c.js": "/tarcisCI/precache-manifest.f636300cf5c14a6802397c4e1789fd8c.js",
+    "service-worker.js": "/tarcisCI/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/tarcisCI/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.8d77a238.chunk.js.LICENSE.txt": "/tarcisCI/static/js/2.8d77a238.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tarcisCI/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42417357.js",
+    "static/js/2.8d77a238.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2d6b552e.chunk.js"
+  ]
+}
