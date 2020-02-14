@@ -2,6 +2,7 @@
   "name": "travisci",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://asis012.github.io/tarcisCI",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
